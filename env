@@ -1,0 +1,9 @@
+PORT=80
+
+GMAIL_USER=officialdailybites@gmail.com
+GMAIL_KEY=tmkwpqjslgxrkfip
+
+DB_URL=https://gcjgtwihinsxyehvlsgz.supabase.co
+DB_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdjamd0d2loaW5zeHllaHZsc2d6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMjU3OTQxNSwiZXhwIjoyMDQ4MTU1NDE1fQ.4pMwxSFaBDFkxQaTXBzsFDl1gF8T0Un4xydH74AajRI
+
+TOKEN_EXPIRATION_SECONDS=3600
